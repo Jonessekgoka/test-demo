@@ -1,3 +1,3 @@
 hello
 
-this is reached my training file on html & css 
+this is read me my training file on html & css 
